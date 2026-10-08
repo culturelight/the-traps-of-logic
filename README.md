@@ -24,9 +24,11 @@
 
 Publication on Lulu.com is planned for **November 2026**, according to the author.
 
+The cover and illustrations were created with Codex and Image Gen, AI tools, and arranged by the author.
+
 ## 關於作者
 
-B Hui 在業餘時間寫作，並設計 custom GPT 指令。本專案分享《邏輯的陷阱》的有限試讀內容。
+B Hui 在業餘時間寫作，並設計 custom GPT 指令。本專案分享《邏輯的陷阱》的有限試讀內容。封面與插圖使用 Codex 與 Image Gen 等 AI 工具創作，並由作者編排。
 
 ## 版權與使用
 
